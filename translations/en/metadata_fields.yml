@@ -2,19 +2,28 @@ comments_limitations: Other information
 computation_calculations: Calculations
 computation_definitions: Definitions
 computation_units: Unit of measurement
-comparison_sdg: Comparability with UN metadata
+comparison_sdg: Comparability with global metadata
+content_and_progress: Content and progress
+copyright: Copyright
+data_state: Data status
 goal_meta_link: Link to the global metadata of this indicator
 goal_meta_national_link: Link to national metadata
 indicator: Indicator number
 indicator_definition: Global indicator description
+dns_indicator_definition: Definition #<small> (Text from the Indicator Report 2021)</small>
+dns_indicator_intention: Target and intention #<small>(Text from the Indicator Report 2021)</small>
+dns_indicator_content: Content and progress
+dns_content_url: Content and progress
+dns_content_url_text: Content and progress
 indicator_name: Indicator name
 indicator_sort_order: Indicator display order (within Goal page)
 info_url_1: Additional Information
-national_data_update_url: Data last updated
+
+national_data_update_url: Last modification of data
 national_geographical_coverage: Geographical coverage
-national_indicator_available: Indicator available
+national_indicator_available: Time series available
 national_indicator_description: Indicator description
-national_metadata_update_url: Metadata last updated
+national_metadata_update_url: Last modification of text
 source_contact_1: Contact details
 source_contact_2: Contact details
 source_contact_3: Contact details
@@ -77,5 +86,125 @@ source_url_5: Link to <br>data source
 source_url_6: Link to <br>data source
 target: Target name
 target_id: Target number
-un_custodian_agency: UN custodian agency
-un_designated_tier: <a href="https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/">UN designated tier</a>
+un_custodian_agency: Custodian agency
+un_designated_tier: <a href="https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/" title="Click here for further information on the UN_Tier classification.">Designated tier</a>
+
+weather_indicator_1: Indicator
+weather_indicator_1_target: Target
+#single target
+weather_indicator_1_year_a: Year
+weather_indicator_1_item_a: Evaluation
+#single target with old target
+weather_indicator_1_target_new: Target
+weather_indicator_1_new_year_a: Year
+weather_indicator_1_new_item_a: Evaluation
+#multiple targets
+weather_indicator_1_target_1_year_a: Year
+weather_indicator_1_target_1_item_a: Evaluation
+weather_indicator_1_target_1_old_year_a: Year
+weather_indicator_1_target_1_old_item_a: Evaluation
+weather_indicator_1_target_1_new_year_a: Year
+weather_indicator_1_target_1_new_item_a: Evaluation
+
+weather_indicator_1_target_2_year_a: Year
+weather_indicator_1_target_2_item_a: Evaluation
+weather_indicator_1_target_2_old_year_a: Year
+weather_indicator_1_target_2_old_item_a: Evaluation
+weather_indicator_1_target_2_new_year_a: Year
+weather_indicator_1_target_2_new_item_a: Evaluation
+
+weather_indicator_1_target_3_year_a: Year
+weather_indicator_1_target_3_item_a: Evaluation
+weather_indicator_1_target_3_old_year_a: Year
+weather_indicator_1_target_3_old_item_a: Evaluation
+weather_indicator_1_target_3_new_year_a: Year
+weather_indicator_1_target_3_new_item_a: Evaluation
+
+weather_indicator_1_target_4_year_a: Year
+weather_indicator_1_target_4_item_a: Evaluation
+weather_indicator_1_target_4_old_year_a: Year
+weather_indicator_1_target_4_old_item_a: Evaluation
+weather_indicator_1_target_4_new_year_a: Year
+weather_indicator_1_target_4_new_item_a: Evaluation
+
+weather_indicator_2: Indicator
+weather_indicator_2_target: Target
+#single target
+weather_indicator_2_year_a: Year
+weather_indicator_2_item_a: Evaluation
+#single target with old target
+weather_indicator_2_target_new: Target
+weather_indicator_2_new_year_a: Year
+weather_indicator_2_new_item_a: Evaluation
+#multiple targets
+weather_indicator_2_target_1_year_a: Year
+weather_indicator_2_target_1_item_a: Evaluation
+weather_indicator_2_target_1_old_year_a: Year
+weather_indicator_2_target_1_old_item_a: Evaluation
+weather_indicator_2_target_1_new_year_a: Year
+weather_indicator_2_target_1_new_item_a: Evaluation
+
+weather_indicator_2_target_2_year_a: Year
+weather_indicator_2_target_2_item_a: Evaluation
+weather_indicator_2_target_2_old_year_a: Year
+weather_indicator_2_target_2_old_item_a: Evaluation
+weather_indicator_2_target_2_new_year_a: Year
+weather_indicator_2_target_2_new_item_a: Evaluation
+
+weather_indicator_2_target_3_year_a: Year
+weather_indicator_2_target_3_item_a: Evaluation
+weather_indicator_2_target_3_old_year_a: Year
+weather_indicator_2_target_3_old_item_a: Evaluation
+weather_indicator_2_target_3_new_year_a: Year
+weather_indicator_2_target_3_new_item_a: Evaluation
+
+weather_indicator_2_target_4_year_a: Year
+weather_indicator_2_target_4_item_a: Evaluation
+weather_indicator_2_target_4_old_year_a: Year
+weather_indicator_2_target_4_old_item_a: Evaluation
+weather_indicator_2_target_4_new_year_a: Year
+weather_indicator_2_target_4_new_item_a: Evaluation
+
+weather_indicator_3: Indicator
+weather_indicator_3_target: Target
+#single target
+weather_indicator_3_year_a: Year
+weather_indicator_3_item_a: Evaluation
+#single target with old target
+weather_indicator_3_target_new: Target
+weather_indicator_3_new_year_a: Year
+weather_indicator_3_new_item_a: Evaluation
+#multiple targets
+weather_indicator_3_target_1_year_a: Year
+weather_indicator_3_target_1_item_a: Evaluation
+weather_indicator_3_target_1_old_year_a: Year
+weather_indicator_3_target_1_old_item_a: Evaluation
+weather_indicator_3_target_1_new_year_a: Year
+weather_indicator_3_target_1_new_item_a: Evaluation
+
+weather_indicator_3_target_2_year_a: Year
+weather_indicator_3_target_2_item_a: Evaluation
+weather_indicator_3_target_2_old_year_a: Year
+weather_indicator_3_target_2_old_item_a: Evaluation
+weather_indicator_3_target_2_new_year_a: Year
+weather_indicator_3_target_2_new_item_a: Evaluation
+
+weather_indicator_3_target_3_year_a: Year
+weather_indicator_3_target_3_item_a: Evaluation
+weather_indicator_3_target_3_old_year_a: Year
+weather_indicator_3_target_3_old_item_a: Evaluation
+weather_indicator_3_target_3_new_year_a: Year
+weather_indicator_3_target_3_new_item_a: Evaluation
+
+weather_indicator_3_target_4_year_a: Year
+weather_indicator_3_target_4_item_a: Evaluation
+weather_indicator_3_target_4_old_year_a: Year
+weather_indicator_3_target_4_old_item_a: Evaluation
+weather_indicator_3_target_4_new_year_a: Year
+weather_indicator_3_target_4_new_item_a: Evaluation
+
+other_info: Other information
+quality_assurance: Quality assurance
+international_comparability: Comparability with international data/standards
+comments_limitations: Comments and limitations
+rational_interpretation: Rational and interpretation

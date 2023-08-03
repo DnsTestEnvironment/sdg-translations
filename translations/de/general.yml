@@ -1,8 +1,10 @@
+alert: 'Sie verlassen unsere Webseite!\nDer Link führt Sie zur Webseite '
+alert_general: 'Sie verlassen unsere Webseite!\nDer Link führt Sie zu einer externen Webseite.'
 goal: Ziel
 goals: Ziele
 one_goal: einem Ziel
 found_in_goals: Zielen
-home: Home
+home: Start
 indicator: Indikator
 indicators: Indikatoren
 indicator_cap: Indikator
@@ -15,3 +17,38 @@ opens_new_window: in neuem Fenster öffnen
 sdg: Ziele für Nachhaltige Entwicklung
 target: Unterziel
 targets: Unterziele
+dns_target: Indikatorenbereiche und Postulate
+dns: Nachhaltige Entwicklung in Deutschland
+link_sdg: Zur Seite der globalen Indikatoren
+link_dns: Zur Seite der nationalen Indikatoren
+link_sdg_indicator: Verwandter globaler Indikator
+link_sdg_indicator_short: Globaler Indikator
+link_sdg_goal: Globale Indikatoren zu Ziel
+link_dns_goal: Nationale Indikatoren zu Ziel
+target_link_sdg: Globale Indikatoren zu
+target_link_dns: Nationale Indikatoren zu
+global: "- Global"
+national: "- National"
+indicator_link_sdg: "Verwandter globaler Indikator:"
+indicator_link_dns: "Verwandter nationaler Indikator:"
+next_indicator: Nächster Indikator
+prev_indicator: Vorheriger Indikator
+next_goal: Nächstes Ziel
+prev_goal: Vorheriges Ziel
+title: Deutschlands Indikatoren zu den Sustainable Development Goals
+title_dns: Indikatoren zur Nachhaltigkeitsstrategie für
+twitter: <i class="fa fa-twitter" aria-hidden="true"></i>@destatis</a>
+meta: Übersichtlicher Stand der Indikatoren der 17 Sustainable Development Goals (SDGs) in Deutschland samt öffentlich zur Verfügung stehender Datengrundlage
+meta_goal: Übersichtlicher Stand der deutschen Indikatoren zu Sustainable Development Goal
+meta_indicator: Daten für Deutschland zu SDG-Indikator
+section: Bereich
+seventeen_goals: 17 Ziele
+postulate: Postulat
+built_using_open_sdg: Seite basiert auf Open SDG
+page: Seite
+pages: Seiten
+dialog_target_link_1: Zu den Indikatoren von Ziel
+dialog_target_link_2: in der <u>Dialogfassung</u> der Deutschen Nachhaltigkeitsstrategie
+dialog_front: Zu den Indikatoren der <u>Dialogfassung</u> der Deutschen Nachhaltigkeitsstrategie
+dialog_indikator_1: Zum Indikator
+dialog_indikator_2: in der <u>Dialogfassung</u> der Deutschen Nachhaltigkeitsstrategie
