@@ -1,10 +1,10 @@
 start: Start
-dns_plattform: DNS-Online platform <img class="link_btn" src="https://sdg-indikatoren.de/public/DNS Wheel_Transparent.png" title="Click here to get to the dns indicator page" alt="Link DNS" style="width:24px;height:24px;"/>
+dns_plattform: DNS-Online platform <img class="link_btn" src="https://sdg-indikatoren.de/public/DNS Wheel.png" title="Click here to get to the dns indicator page" alt="Link DNS" style="width:24px;height:24px;"/>
 sdg_plattform: SDG-Online platform <img class="link_btn" src="https://sdg-indikatoren.de/public/SDG Wheel_Transparent.png" title="Click here to get to the dns indicator page" alt="Link SDG" style="width:24px;height:24px;"/>
 national_indicators: National Indicators (DNS)
 dns: German Sustainable Development Strategy (DNS)
 dns_indcator_set: DNS-Indicatorset
-indicatortor_reports: Indicator reports
+indicator_reports: Indicator reports
 other_publications: Other publications
 global_indicators: Global indicators (SDG)
 path_sdg_agenda: https://sdgtestenvironment.github.io/sdg-indicators/en/facts_agenda/
