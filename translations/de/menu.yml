@@ -23,6 +23,10 @@ methodology: Methodik
 sustainable_development_strategy: Nachhaltigkeitsstrategie
 federal_government: Bundesregierung
 federal_states: Bundesländer
+help: Hilfe
+navigation: Navigation
+guidance: Technische&nbspHinweise
+faq: FAQ
 
 
 about: Über uns
@@ -34,15 +38,12 @@ contact_us: Kontakt
 cookies: Cookies
 community: Gemeinschaftswerk
 dialog_br: Seite der Bundesregierung
-faq: FAQ
 facts: Wissenswertes
 feasibility_study: Machbarkeitsstudie zur Darstellung der Indikatoren
 feasibility_study_path: https://dns-indikatoren.de/assets/publications/machbarkeitsstudie.pd
 government_reports: Berichte der Bundesregierung
 government_reports_path: https://www.bundesregierung.de/breg-de/themen/nachhaltigkeitspolitik/berichte-und-reden-nachhaltigkeit/berichte-der-bundesregierung-418550
-guidance: Technische&nbspHinweise
 menu: Menü
-navigation: Navigation
 other_publications: Weitere Publikationen
 pathtosdg: "https://www.sdg-indikatoren.de"
 sdglogo:  <img class="link_btn" src="https://sdg-indikatoren.de/public/SDG Wheel_Transparent.png" title="Klicken Sie hier um zur Seite der SDG Indikatoren zu gelangen" alt="Link SDG" style="width:24px;height:24px;"/>
