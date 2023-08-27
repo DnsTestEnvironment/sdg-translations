@@ -1,4 +1,5 @@
 start: Start
+pathtosdg: https://sdgtestenvironment.github.io/sdg-indicators/en
 dns_plattform: DNS-Online platform <img class="link_btn" src="https://sdg-indikatoren.de/public/DNS Wheel.png" title="Click here to get to the dns indicator page" alt="Link DNS" style="width:24px;height:24px;"/>
 sdg_plattform: SDG-Online platform <img class="link_btn" src="https://sdg-indikatoren.de/public/SDG Wheel_Transparent.png" title="Click here to get to the dns indicator page" alt="Link SDG" style="width:24px;height:24px;"/>
 national_indicators: National Indicators (DNS)
