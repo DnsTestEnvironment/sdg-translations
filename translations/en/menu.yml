@@ -8,16 +8,16 @@ dns_indcator_set: DNS-Indicatorset
 indicator_reports: Indicator reports
 other_publications: Other publications
 global_indicators: Global indicators (SDG)
-path_sdg_agenda: https://sdgtestenvironment.github.io/sdg-indicators/en/about/agenda/
+path_sdg_agenda: 'https://sdgtestenvironment.github.io/sdg-indicators/en/about/agenda/'
 agenda: 2030 Agenda
-path_un_sdg: https://sdgtestenvironment.github.io/sdg-indicators/en/about/un_sdg/
+path_un_sdg: 'https://sdgtestenvironment.github.io/sdg-indicators/en/about/un_sdg/'
 un_sdg: UN-Sustainable Development Goals (SDG)
 sdg_indicator_set: SDG-Indicatorset
 path_wista_6_16:
 wista_6_16: Extract from the publication "WISTA - Wirtschaft und Statistik", 5/2016
-path_report_hlpf: https://sdgtestenvironment.github.io/sdg-indicators//en/publications/hlpf_reports
+path_report_hlpf: 'https://sdgtestenvironment.github.io/sdg-indicators//en/publications/hlpf_reports'
 report_hlpf: Report on the HLPF
-path_joint_action: https://dnstestenvironment.github.io/dns-indicators/en/about_joint_action/
+path_joint_action: 'https://dnstestenvironment.github.io/dns-indicators/en/about_joint_action/'
 joint_action: Joint Action
 status_overview: Status overview
 methodology: Methodology
