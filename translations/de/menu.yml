@@ -8,7 +8,7 @@ dns_indcator_set: DNS-Indikatorenset
 indicator_reports: Indikatorenberichte
 other_publications: Weitere Publikationen
 global_indicators: Globale Indikatoren (SDG)
-path_sdg_agenda: 'https://sdgtestenvironment.github.io/sdg-indicators/about/genda/'
+path_sdg_agenda: 'https://sdgtestenvironment.github.io/sdg-indicators/about/agenda/'
 agenda: Agenda 2030
 path_un_sdg: 'https://sdgtestenvironment.github.io/sdg-indicators/about/un_sdg/'
 un_sdg: UN-Nachhaltigkeitsziele (SDG)
