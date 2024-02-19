@@ -1,6 +1,6 @@
 1_start: Start
-1_start_2_dns_platform: Nationale Indikatoren <img class="link_btn" src="https://sdg-indikatoren.de/public/DNS Wheel.png" title="Klicken Sie hier um zur Seite der DNS Indikatoren zu gelangen" alt="Link DNS" style="width:24px;height:24px;"/>
-1_start_2_sdg_platform: Globale Indikatoren <img class="link_btn" src="https://sdg-indikatoren.de/public/SDG Wheel_Transparent.png" title="Klicken Sie hier um zur Seite der SDG Indikatoren zu gelangen" alt="Link SDG" style="width:24px;height:24px;"/>
+1_start_2_dns_platform: Nationale Indikatoren <img class="link_btn" src="https://sdgtestenvironment.github.io/sdg-indicators/public/DNS Wheel.png" title="Klicken Sie hier um zur Seite der DNS Indikatoren zu gelangen" alt="Link DNS" style="width:24px;height:24px;"/>
+1_start_2_sdg_platform: Globale Indikatoren <img class="link_btn" src="https://sdgtestenvironment.github.io/sdg-indicators/public/SDG Wheel_Transparent.png" title="Klicken Sie hier um zur Seite der SDG Indikatoren zu gelangen" alt="Link SDG" style="width:24px;height:24px;"/>
 1_start_2_sdg_platform_path: "https://sdgtestenvironment.github.io/sdg-indicators"
 1_about: Themen
 1_about_2_dns: "Deutsche Nachhaltigkeitsstrategie (DNS)"
@@ -47,7 +47,7 @@ government_reports_path: "https://www.bundesregierung.de/breg-de/themen/nachhalt
 menu: Menü
 other_publications: Weitere Publikationen
 pathtosdg: "https://www.sdg-indikatoren.de"
-sdglogo:  <img class="link_btn" src="https://sdg-indikatoren.de/public/SDG Wheel_Transparent.png" title="Klicken Sie hier um zur Seite der SDG Indikatoren zu gelangen" alt="Link SDG" style="width:24px;height:24px;"/>
+sdglogo:  <img class="link_btn" src="https://sdgtestenvironment.github.io/sdg-indicators/public/SDG Wheel_Transparent.png" title="Klicken Sie hier um zur Seite der SDG Indikatoren zu gelangen" alt="Link SDG" style="width:24px;height:24px;"/>
 platform: Berichtsplattform
 publications: Publikationen
 reporting_status: Berichtsstatus
