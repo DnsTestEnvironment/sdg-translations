@@ -157,10 +157,10 @@ divers: Divers
 female: Weiblich
 male: Männlich
 unknown: Unbekannt
-'<u>additional time series:</u> coasts and seas': '<u>Zusätzliche Zeitreihe:</u> Teilindex Küsten/Meere'
-farmland sub-index: Teilindex Agrarland
-forest sub-index: Teilindex Wälder
-settlements sub-index: Teilindex Siedlungen
+'<u>additional time series:</u> coasts and seas': '<u>Zusätzliche Zeitreihe:</u> Küsten/Meere'
+farmland sub-indicator: Teilindikator Agrarland
+forest sub-indicator: Teilindikator Wälder
+settlements sub-indicator: Teilindikator Siedlungen
 '<u>time series of the indicator:</u> total': '<u>Zeitreihe des Indikators:</u> Gesamtindikator'
 inland waters sub-index: Teilindex Binnengewässer
 sector/area collective agreement: Branchen-/Flächentarifvertrag

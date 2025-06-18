@@ -158,9 +158,9 @@ female: Female
 male: Male
 unknown: Unknown
 '<u>additional time series:</u> coasts and seas': '<u>Additional time series:</u> Coasts and seas'
-farmland sub-index: Farmland sub-index
-forest sub-index: Forest sub-index
-settlements sub-index: Settlements sub-index
+farmland sub-indicator: Farmland sub-indicator
+forest sub-indicator: Forest sub-indicator
+settlements sub-indicator: Settlements sub-indicator
 '<u>time series of the indicator:</u> total': '<u>Time series of the indicator:</u> Total'
 inland waters sub-index: Inland waters sub-index
 sector/area collective agreement: Sector/area collective agreement
