@@ -206,13 +206,13 @@ degree of urbanisation: Verstädterungsgrad
 categorization: Zuordnung
 
 #Einheiten
-'1.000': '1 000'
+1,000: '1 000'
 millions: Millionen
-billion eur: Milliarden EUR
+billion euros: Milliarden Euro
 inhabitants per km² settlement and transport area: Einwohner/-innen pro km² Siedlungs- und Verkehrsfläche
 gini coefficient: Gini-Koeffizient
-hectre: Hektar
-hectre per day: Hektar pro Tag
+hectare: Hektar
+hectares per day: Hektar pro Tag
 1990 = 100: 1990 = 100
 2030 = 100: 2030 = 100
 2000 = 100: 2000 = 100
@@ -220,12 +220,12 @@ hectre per day: Hektar pro Tag
 2008 = 100: 2008 = 100
 2010 = 100: 2010 = 100
 2015 = 100: 2015 = 100
-kilogram per hectare: Kilogramm pro Hektar
+kilograms per hectare: Kilogramm pro Hektar
 milligrams per litre: Milligramm pro Liter
 minutes: Minuten
-million eur: Millionen EUR
+million euros: Millionen Euro
 million inhabitants: Millionen Einwohner/-innen
-million hectre: Millionen Hektar
+million hectares: Millionen Hektar
 number: Anzahl
 number of ratings: Anzahl der Bewertungen
 per 100,000 inhabitants: Je 100 000 Einwohner/-innen
@@ -235,7 +235,7 @@ percentage points: Prozentpunkte
 m² per year: m² pro Jahr
 m² per inhabitant and year: m² pro Einwohner/-in und Jahr
 hours: Stunden
-1.000 eur: 1 000 EUR
+1,000 euros: 1 000 Euro
 
 #Indikatoren für Auswahlfelder
 a) material and social deprivation: a) Materielle und soziale Deprivation
