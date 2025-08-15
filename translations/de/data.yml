@@ -33,10 +33,10 @@ eurozone: Eurozone
 germany: Deutschland
 day care centres: Kindertageseinrichtungen
 day care: Kindertagespflege
-effectiveness = low or moderate: Gering oder moderat
-technical compliance = non-compliant or partially compliant: Nicht umgesetzt oder teilweise umgesetzt
-effectiveness = substantial or high: Solide oder hoch
-technical compliance = largely compliant or compliant: Größtenteils umgesetzt oder umgesetzt
+low or moderate: Gering oder moderat
+non-compliant or partially compliant: Nicht umgesetzt oder teilweise umgesetzt
+substantial or high: Solide oder hoch
+largely compliant or compliant: Größtenteils umgesetzt oder umgesetzt
 calculated in grant equivalents: Berechnung in Zuschussäquivalenten
 calculated as net expenditure: Berechnung als Netto-Ausgabe
 domestic burglary: Wohnungseinbruchsdiebstahl
@@ -69,7 +69,6 @@ pm2.5: PM₂.₅
 no risk situation: Keine Risikolage
 at least one risk situation: Mindestens eine Risikolage
 total: Insgesamt
-difference between "no risk situation" and "at least one risk situation": Differenz zwischen „Keine Risikolage“ und „Mindestens eine Risikolage“
 baltic sea: Ostsee
 north sea: Nordsee
 sustainably farmed area: Nachhaltige bewirtschaftete Fläche

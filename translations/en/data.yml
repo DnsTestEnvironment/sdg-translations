@@ -33,10 +33,10 @@ eurozone: Eurozone
 germany: Germany
 day care centres: Day care centres
 day care: Day care
-effectiveness = low or moderate: Effectiveness = Low or moderate
-technical compliance = non-compliant or partially compliant: Technical compliance = Non-compliant or partially compliant
-effectiveness = substantial or high: Effectiveness = Substantial or high
-technical compliance = largely compliant or compliant: Technical compliance = Largely compliant or compliant
+low or moderate: Low or moderate
+non-compliant or partially compliant: Non-compliant or partially compliant
+substantial or high: Substantial or high
+largely compliant or compliant: Largely compliant or compliant
 calculated in grant equivalents: Calculated in grant equivalents
 calculated as net expenditure: Calculated as net expenditure
 domestic burglary: Domestic burglary
@@ -69,7 +69,6 @@ pm2.5: PM₂.₅
 no risk situation: No risk situation
 at least one risk situation: At least one risk situation
 total: Total
-difference between "no risk situation" and "at least one risk situation": Difference between "No risk situation" and "At least one risk situation"
 baltic sea: Baltic Sea
 north sea: North Sea
 sustainably farmed area: Sustainably farmed area
