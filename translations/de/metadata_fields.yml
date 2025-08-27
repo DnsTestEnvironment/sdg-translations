@@ -9,9 +9,9 @@ data_state: Datenstand
 data_last_update: Letztes Datenupdate
 indicator: Indikatorennummerierung
 indicator_definition: Globale Indikatorenbeschreibung
-dns_indicator_definition: Definition <small><br>(Text aus dem Indikatoren&shy;bericht 2022 - Stand 31.10.2022)</small>
+dns_indicator_definition: Definition
 dns_indicator_definition_new: Definition
-dns_indicator_intention: Ziel und Intention <small><br>(Text aus dem Indikatoren&shy;bericht 2022 - Stand 31.10.2022)</small>
+dns_indicator_intention: Intention
 dns_political_intention: Intention
 type_target: Art des Ziels
 political_target: Ziel
