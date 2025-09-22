@@ -405,3 +405,19 @@ financial action task force (fatf) rating effectiveness: Financial Action Task F
 official development assistance as a proportion of gross national income: Official development assistance as a proportion of gross national income
 number of students and researchers from developing countries and least developed countries: Number of students and researchers from developing countries and least developed countries
 imports from least developed countries: Imports from least developed countries
+
+#Data notes
++++symbols: Explanation of symbols
+'+++0': less than half of 1 in the last digit occupied, but more than zero
+'+++‒': no figures or magnitude zero
+'+++...': data will be available later
+'+++/': no data because the numerical value is not sufficiently reliable
+'+++.': numerical value unknown or not be disclosed
+'+++x': cell blocked for logical reasons
+'+++( )': limited informational value because numerical value is of limited statistical reliability
+'+++|': fundamental change within a series affecting comparisons over time
+'+++p': provisional data
+'+++r': revised data
+'+++s': estimated data
+'+++-': no figures or magnitude zero
+'+++X': cell blocked for logical reasons
