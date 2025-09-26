@@ -158,12 +158,12 @@ divers: Divers
 female: Female
 male: Male
 unknown: Unknown
-'<u>additional time series:</u> coasts and seas': '<u>Additional time series:</u> Coasts and seas'
+'<u>additional time series:</u> coasts/seas': '<u>Additional time series:</u> Coasts/seas'
 farmland sub-indicator: Farmland sub-indicator
 forest sub-indicator: Forest sub-indicator
 settlements sub-indicator: Settlements sub-indicator
 '<u>time series of the indicator:</u> total': '<u>Time series of the indicator:</u> Total'
-inland waters sub-index: Inland waters sub-index
+inland waters sub-indicator: Inland waters sub-indicator
 sector/area collective agreement: Sector/area collective agreement
 company/house collective agreement: Company/house collective agreement
 recreation area, cemetery: Recreation area, cemetery
