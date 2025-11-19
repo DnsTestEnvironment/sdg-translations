@@ -26,7 +26,7 @@ download_chart: Grafik herunterladen
 download_blurb: ''
 download_geojson_title: Karte als geoJson Datei speichern
 download_geojson: Karte im geojson Format speichern
-download_chart: Grafik im CSV-Format speichern
+#download_chart: Grafik im CSV-Format speichern
 download_chart_image: Grafik als Bild speichern
 download_csv: im CSV-Format speichern
 download_csv_title: im CSV-Format speichern
