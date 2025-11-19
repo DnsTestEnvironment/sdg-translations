@@ -18,6 +18,8 @@ specification: Specification
 data_state: Data state
 data_not_available:  No data available for this selection of sub-categories and units
 details: Details
+downloads: Downloads
+download_blurb: ''
 download_geojson_title: Download geojson file
 download_geojson: Save map as geojson
 download_headline: Download Headline CSV
