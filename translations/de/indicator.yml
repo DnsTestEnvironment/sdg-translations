@@ -19,6 +19,7 @@ dns_metadata_blurb: Diese Übersicht beinhaltet zusätzliche Informationen zu de
 downloads: Downloads
 indicator: Indikator
 download_indicator: Indikator im PDF-Format herunterladen
+download_indicator_addition: Datei ist barrierefrei/barrierearm.
 data: Daten
 download_data: Daten im CSV-Format herunterladen
 chart: Grafik
